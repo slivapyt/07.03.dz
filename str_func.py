@@ -1,4 +1,5 @@
 def func(text):
+    """возвращает заглавные"""
     return text.upper()
 
 
